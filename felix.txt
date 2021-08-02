@@ -1,0 +1,18 @@
+class Huis{   // vereenvoudiging   // FELIX
+	int huisid;
+	int mens;  // foreign key      Object Relational Mapping
+}
+
+
+
+class Mens{
+	int mensid;
+	String voornaam;
+
+}
+
+
+
+
+Huis huis = new Huis();
+huis.mens = 3;
