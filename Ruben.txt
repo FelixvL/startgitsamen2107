@@ -1,4 +1,4 @@
-ABCDEFG //Ruben   GHT// FELIX
+ABCDEFG //Ruben		//Niet-GHT Ruben
 
 class something{
 DoSomething();
