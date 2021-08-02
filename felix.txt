@@ -1,4 +1,5 @@
 class Huis{   // vereenvoudiging   // FELIX
+	extra informatie;
 	int huisid;
 	int mens;  // foreign key      Object Relational Mapping
 }
